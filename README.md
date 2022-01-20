@@ -14,7 +14,7 @@ Python
 Pygame
 OpenSans
 ```
-Algorithm
+Algorithm:
 ```
 Minimax
 ```
