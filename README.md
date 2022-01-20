@@ -22,6 +22,7 @@ Minimax
 ## What is Minimax?
 It is a type of adversarial search which has an agent and its oposite agent. Both agents will fight with each other to win the game.
 To implement minimax, there's a few important functions:
+
 **Initial state**
 - A empty set of tic-tac-toe game
 
