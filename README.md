@@ -52,5 +52,3 @@ To implement minimax, there's a few important functions:
 4. Run
 ``python3 runner.py``
 
-#### Special appreciation to CS50
-
